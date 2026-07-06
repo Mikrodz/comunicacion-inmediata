@@ -88,6 +88,14 @@ Reconocemos que, en muchas situaciones, necesita comunicarse antes de haber podi
 
 Nuestro objetivo es acompañar ese primer paso con una herramienta práctica, accesible y respetuosa del proceso de aprendizaje.
 
+## Respeto por la diversidad lingüística
+
+La colección está dirigida a hispanohablantes de distintos países y regiones.
+
+Siempre que sea posible, se priorizarán expresiones de amplia comprensión en el mundo hispanohablante, evitando localismos cuando exista una alternativa igualmente natural y precisa.
+
+Esta decisión no implica considerar una variedad superior a otra. Su único objetivo es facilitar que la mayor cantidad de lectores pueda comprender el contenido de forma inmediata.
+
 ## Diseño para distintos lectores
 
 La colección reconoce que las personas progresan a ritmos diferentes.
