@@ -9,9 +9,9 @@ Comunicación inmediata durante partidas de shooters multijugador.
 - [ ] Entrando a la partida
 - [ ] Saludar
 - [ ] Necesito ayuda
-- [ ] Cubrime
+- [ ] Cúbreme
 - [ ] Revivime
-- [ ] Esperá
+- [ ] Espera
 - [ ] Vamos juntos
 - [ ] Hay enemigos
 - [ ] Retrocedamos
