@@ -52,6 +52,8 @@ Nuestra colección busca acompañar ese primer paso.
 
 La colección *Comunicación inmediata* ocupa el espacio entre la traducción automática y el aprendizaje formal.
 
+La colección está compuesta por productos independientes y complementarios. Cada manual busca resolver necesidades concretas dentro de un contexto específico, pero puede combinarse con otros para ofrecer una cobertura más amplia sin perder simplicidad ni rapidez de consulta.
+
 Ofrece una herramienta de consulta rápida, contextualizada y orientada a la acción.
 
 No pretende reemplazar cursos de idiomas, docentes, instituciones educativas ni traductores automáticos.

@@ -54,7 +54,9 @@ Todo el contenido debe poder reutilizarse sin modificaciones sustanciales en dis
 
 # Organización del contenido
 
-La unidad principal de la colección es el **escenario**.
+Los productos pueden organizarse en dominios temáticos cuando el contexto de comunicación así lo requiera.
+
+Dentro de cada dominio, la unidad principal de organización es el **escenario**.
 
 Cada escenario representa una situación concreta y puede incluir:
 
