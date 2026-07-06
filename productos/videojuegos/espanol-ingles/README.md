@@ -1,12 +1,13 @@
-# Comunicación inmediata: Videojuegos (Español ↔ Inglés)
+# Videojuegos
 
-Estado: MVP
+Este dominio reúne los manuales de comunicación inmediata orientados a videojuegos.
 
-Objetivo:
-Herramienta de consulta rápida para comunicación entre jugadores hispanohablantes y angloparlantes.
+Cada manual aborda un tipo de experiencia de juego específico.
 
-## Estructura
+Actualmente incluye:
 
-- escenarios/
-- dialogos/
-- frases/
+- Shooter
+- MMORPG
+- Survival
+- Co-op
+- Discord
