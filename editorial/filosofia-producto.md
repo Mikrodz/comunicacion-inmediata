@@ -90,11 +90,13 @@ Nuestro objetivo es acompañar ese primer paso con una herramienta práctica, ac
 
 ## Respeto por la diversidad lingüística
 
-La colección está dirigida a hispanohablantes de distintos países y regiones.
+La colección reconoce que toda lengua presenta distintas variedades regionales, sociales y culturales.
 
-Siempre que sea posible, se priorizarán expresiones de amplia comprensión en el mundo hispanohablante, evitando localismos cuando exista una alternativa igualmente natural y precisa.
+Siempre que sea posible, se priorizarán expresiones de amplia comprensión para el público destinatario, evitando regionalismos cuando exista una alternativa igualmente natural y precisa.
 
-Esta decisión no implica considerar una variedad superior a otra. Su único objetivo es facilitar que la mayor cantidad de lectores pueda comprender el contenido de forma inmediata.
+Esta decisión no implica considerar una variedad superior a otra. Su único objetivo es facilitar la comprensión inmediata por parte de la mayor cantidad posible de lectores.
+
+Cuando una variedad regional resulte especialmente relevante para un contexto determinado, podrá incorporarse como información complementaria en futuras ediciones de la colección.
 
 ## Diseño para distintos lectores
 

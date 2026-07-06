@@ -25,6 +25,12 @@ Cada escenario puede contener:
 - frases individuales
 - una sección **Construí nuevas frases**
 
+## Variedad de la lengua
+
+Los textos dirigidos al lector se redactarán utilizando una variedad de amplia comprensión para el público destinatario.
+
+Se evitarán regionalismos léxicos o gramaticales cuando exista una alternativa igualmente natural y más ampliamente reconocida.
+
 ## Tono
 
 Cuando resulte necesario, una expresión puede incluir una indicación de tono.
