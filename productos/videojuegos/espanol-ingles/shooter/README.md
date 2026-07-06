@@ -7,16 +7,18 @@ Comunicación inmediata durante partidas de shooters multijugador.
 ## Escenarios
 
 - [ ] Entrando a la partida
-- [ ] Saludar
-- [ ] Necesito ayuda
-- [ ] Cúbreme
-- [ ] Revivime
-- [ ] Espera
-- [ ] Vamos juntos
-- [ ] Hay enemigos
-- [ ] Retrocedamos
+- [ ] Comprar armas
+- [ ] Elegir sitio
+- [ ] Colocar bomba
+- [ ] Desactivar bomba
+- [ ] Avisar enemigos
+- [ ] Pedir ayuda
+- [ ] Pedir cobertura
+- [ ] Rotar
+- [ ] Lanzar utilidades
+- [ ] Revivir
 - [ ] Fin de la partida
 
 ## Estado
 
-MVP
+En investigación.
