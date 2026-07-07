@@ -29,7 +29,7 @@ Los juegos se seleccionan considerando, en conjunto:
 - situaciones de comunicación compartidas
 - vocabulario reutilizable entre distintos títulos
 
-## Información recopilada
+## Resultados
 
 ### Juegos de referencia
 
@@ -45,7 +45,7 @@ Se tomó una muestra representativa de shooters competitivos y cooperativos con 
 | Call of Duty: Warzone | Battle Royale y objetivos |
 | Overwatch 2 | Roles y coordinación del equipo |
 
-### Popularidad del género
+### Popularidad de los juegos de referencia
 
 SteamDB (All-time peak)
 
@@ -58,7 +58,7 @@ SteamDB (All-time peak)
 | Apex Legends | 624,473 |
 | Call of Duty | 491,670 |
 
-Otros rankings consultados (Red Bull y Gamesight) muestran una alta coincidencia en los títulos más representativos del género, destacando especialmente Counter-Strike 2, Valorant, Rainbow Six Siege, Apex Legends, PUBG, Call of Duty y Overwatch 2.
+Los rankings consultados (SteamDB, Red Bull y Gamesight) muestran una alta coincidencia en los títulos más representativos del género, destacando especialmente Counter-Strike 2, Valorant, Rainbow Six Siege, Apex Legends, PUBG, Call of Duty y Overwatch 2.
 
 ### Situaciones de comunicación frecuentes
 
@@ -74,22 +74,35 @@ A partir de la documentación consultada y de las características compartidas p
 - reanimación (cuando el juego lo permita)
 - inicio y fin de la partida
 
+### Aportes de *Una herramienta para el análisis de la comunicación en jugadores de esports en Counter-Strike (CS): Un estudio de caso con el CBAS*
+
+La investigación analiza la comunicación en equipos competitivos de Counter-Strike.
+
+Aunque su alcance es más específico que el de este manual, aporta evidencia que respalda la organización del contenido por situaciones de comunicación.
+
+Entre sus principales hallazgos se observa que la mayor parte de la comunicación durante una partida se concentra en:
+
+- organización del equipo
+- instrucciones tácticas
+- instrucciones técnicas generales
+
+Estos resultados respaldan la decisión editorial de priorizar escenarios relacionados con la coordinación del equipo por encima de otros tipos de interacción, como la conversación casual o el *trash talking*.
+
 ## Conclusiones editoriales
 
-La investigación muestra que los shooters más populares comparten un conjunto reducido de necesidades de comunicación.
+La investigación permite extraer las siguientes conclusiones para el desarrollo del manual.
 
-En consecuencia:
-
-- el manual se organizará por escenarios y no por juegos específicos
-- los escenarios representarán situaciones de comunicación frecuentes
-- los juegos de referencia se utilizarán para validar vocabulario y microdiálogos
-- las expresiones seleccionadas deberán ser reutilizables por la mayor cantidad posible de shooters
+- los shooters más populares comparten un conjunto reducido de necesidades de comunicación
+- la estructura del manual debe organizarse por escenarios y no por juegos específicos
+- los escenarios representan situaciones de comunicación frecuentes y reutilizables
+- los juegos de referencia servirán para validar vocabulario y microdiálogos
+- las expresiones se investigarán y validarán durante el desarrollo de cada escenario
 
 ## Próximo paso
 
-Con esta investigación comienza el diseño de los escenarios.
+Diseñar los escenarios del manual.
 
-Para cada escenario se investigarán únicamente las expresiones necesarias para resolver esa situación de comunicación.
+Para cada escenario se documentarán únicamente las expresiones necesarias para resolver esa situación de comunicación.
 
 ## Fuentes
 
@@ -104,3 +117,6 @@ Para cada escenario se investigarán únicamente las expresiones necesarias para
 
 - SomosXbox – 7 consejos para mejorar tu estrategia en juegos shooter
   https://www.somosxbox.com/7-consejos-para-mejorar-tu-estrategia-en-juegos-shooter/
+
+- Redalyc – *Una herramienta para el análisis de la comunicación en jugadores de esports en Counter-Strike (CS): Un estudio de caso con el CBAS)*
+  https://www.redalyc.org/journal/6138/613877356003/
