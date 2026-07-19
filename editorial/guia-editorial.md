@@ -56,13 +56,17 @@ Todo el contenido debe poder reutilizarse sin modificaciones sustanciales en dis
 
 Los productos pueden organizarse en dominios temáticos cuando el contexto de comunicación así lo requiera.
 
+Cada dominio reúne situaciones de comunicación que comparten un mismo contexto (por ejemplo, videojuegos, hotel, restaurante o aeropuerto).
+
 Dentro de cada dominio, la unidad principal de organización es el **escenario**.
 
-Cada escenario representa una situación concreta y puede incluir:
+Cada escenario representa una situación concreta de comunicación y puede incluir:
 
 - microdiálogos
 - frases individuales
 - patrones reutilizables ("Construí nuevas frases")
+
+Los escenarios deben organizarse según necesidades de comunicación y no según temas gramaticales ni listas de vocabulario.
 
 # Criterios de inclusión
 
