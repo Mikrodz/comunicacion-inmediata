@@ -18,8 +18,6 @@ Esta investigación identifica las situaciones de comunicación compartidas por 
 
 No busca documentar todas las expresiones utilizadas por los jugadores ni describir cada juego del género.
 
-La metodología general utilizada en esta investigación se encuentra documentada en `editorial/metodologia.md`.
-
 ## Selección de la muestra
 
 Se seleccionó una muestra representativa de shooters multijugador considerando, en conjunto:
